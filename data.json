@@ -310,138 +310,138 @@
     {
         "category": "beauty",
         "items": [
-          {
-            "id": 41,
-            "name": "Moisturizer 1",
-            "price": 15.99,
-            "description": "A hydrating moisturizer for all skin types.",
-            "img": ""
-          },
-          {
-            "id": 42,
-            "name": "Moisturizer 2",
-            "price": 18.99,
-            "description": "A lightweight moisturizer with SPF protection.",
-            "img": ""
-          },
-          {
-            "id": 43,
-            "name": "Moisturizer 3",
-            "price": 22.99,
-            "description": "A nourishing moisturizer with natural ingredients.",
-            "img": ""
-          },
-          {
-            "id": 44,
-            "name": "Moisturizer 4",
-            "price": 20.99,
-            "description": "A deep moisturizing cream for dry skin.",
-            "img": ""
-          },
-          {
-            "id": 45,
-            "name": "Moisturizer 5",
-            "price": 19.99,
-            "description": "An anti-aging moisturizer with collagen.",
-            "img": ""
-          },
+              {
+          "id": 41,
+          "name": "Moisturizer 1",
+          "price": 15.99,
+          "description": "A hydrating moisturizer for all skin types.",
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/moisturises.jpg"
+        },
+        {
+          "id": 42,
+          "name": "Moisturizer 2",
+          "price": 18.99,
+          "description": "A lightweight moisturizer with SPF protection.",
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/moisturises-2.jpg"
+        },
+        {
+          "id": 43,
+          "name": "Moisturizer 3",
+          "price": 22.99,
+          "description": "A nourishing moisturizer with natural ingredients.",
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/moisturises-3.jpg"
+        },
+        {
+          "id": 44,
+          "name": "Moisturizer 4",
+          "price": 20.99,
+          "description": "A deep moisturizing cream for dry skin.",
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/moisturises-4.jpg"
+        },
+        {
+          "id": 45,
+          "name": "Moisturizer 5",
+          "price": 19.99,
+          "description": "An anti-aging moisturizer with collagen.",
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/moisturises-5.jpg"
+        },
           {
             "id": 46,
             "name": "Hair Dryer 1",
             "price": 29.99,
             "description": "A powerful hair dryer for quick drying.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/hairDryer.jpg"
           },
           {
             "id": 47,
             "name": "Hair Dryer 2",
             "price": 34.99,
             "description": "A compact hair dryer with multiple settings.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/hairDryer-2.jpg"
           },
           {
             "id": 48,
             "name": "Kajal",
             "price": 9.99,
             "description": "A long-lasting kajal for defined eyes.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/kajal.jpg"
           },
           {
             "id": 49,
             "name": "Hair Oil 1",
             "price": 12.99,
             "description": "A nourishing hair oil for healthy hair.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/hairOil.jpg"
           },
           {
             "id": 50,
             "name": "Hair Oil 2",
             "price": 14.99,
             "description": "A lightweight hair oil for daily use.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/hairOil-2.jpg"
           },
           {
             "id": 51,
             "name": "Hair Oil 3",
             "price": 13.99,
             "description": "A revitalizing hair oil with natural extracts.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/hairOil-3.jpg"
           },
           {
             "id": 52,
             "name": "Perfume 1",
             "price": 49.99,
             "description": "A floral fragrance for a refreshing scent.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/perfume.jpg"
           },
           {
             "id": 53,
             "name": "Perfume 2",
             "price": 59.99,
             "description": "A woody perfume with a long-lasting aroma.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/perfume-2.jpg"
           },
           {
             "id": 54,
             "name": "Perfume 3",
             "price": 54.99,
             "description": "A citrus perfume for a vibrant scent.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/perfume-3.jpg"
           },
           {
             "id": 55,
             "name": "Serum 1",
             "price": 24.99,
             "description": "A hydrating serum for glowing skin.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/serum.jpg"
           },
           {
             "id": 56,
             "name": "Serum 2",
             "price": 29.99,
             "description": "An anti-aging serum with vitamin C.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/serum-2.jpg"
           },
           {
             "id": 57,
             "name": "Serum 3",
             "price": 27.99,
             "description": "A brightening serum for even skin tone.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/serum-3.jpg"
           },
           {
             "id": 58,
             "name": "Serum 4",
             "price": 26.99,
             "description": "A repairing serum for damaged skin.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/serum-4.jpg"
           },
           {
             "id": 59,
             "name": "Serum 5",
             "price": 28.99,
             "description": "A firming serum for youthful skin.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/serum-5.jpg"
           }
         ]
     },
