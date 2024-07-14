@@ -454,56 +454,56 @@
             "name": "Bedsheet 1",
             "price": 29.99,
             "description": "A soft and comfortable bedsheet with a stylish design.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/bedsheet.jpg"
           },
           {
             "id": 61,
             "name": "Bedsheet 2",
             "price": 34.99,
             "description": "A high-quality bedsheet with a luxurious feel.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/bedsheet-2.jpg"
           },
           {
             "id": 62,
             "name": "Bottle 1",
             "price": 9.99,
             "description": "A reusable water bottle with a sleek design.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/bottle.jpg"
           },
           {
             "id": 63,
             "name": "Bottle 2",
             "price": 12.99,
             "description": "A stainless steel bottle that keeps drinks hot or cold.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/bottle-2.jpg"
           },
           {
             "id": 64,
             "name": "Mirror 1",
             "price": 49.99,
             "description": "A decorative wall mirror with a modern frame.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/mirror.jpg"
           },
           {
             "id": 65,
             "name": "Mirror 2",
             "price": 59.99,
             "description": "A large standing mirror with a stylish design.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/mirror-2.jpg"
           },
           {
             "id": 66,
             "name": "Table Lamp 1",
             "price": 39.99,
             "description": "A stylish table lamp with adjustable brightness.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/tableLamp.jpg"
           },
           {
             "id": 67,
             "name": "Table Lamp 2",
             "price": 44.99,
             "description": "A modern table lamp with a sleek design.",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/tableLamp-2.jpg"
           }
         ]
     }
