@@ -8,70 +8,70 @@
           "name": "T-Shirt 1",
           "price": 19.99,
           "description": "A comfortable and stylish t-shirt for men.",
-          "img": ""
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/tshirtM.jpg"
         },
         {
           "id": 2,
           "name": "T-Shirt 2",
           "price": 24.99,
           "description": "A high-quality t-shirt with a unique design.",
-          "img": ""
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/tshirtM-2.jpg"
         },
         {
           "id": 3,
           "name": "Jeans 1",
           "price": 49.99,
           "description": "A classic pair of blue jeans for men.",
-          "img": ""
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/jeansM.jpg"
         },
         {
           "id": 4,
           "name": "Jeans 2",
           "price": 59.99,
           "description": "A stylish and comfortable pair of jeans.",
-          "img": ""
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/jeansM-2.jpg"
         },
         {
           "id": 5,
           "name": "Trousers 1",
           "price": 39.99,
           "description": "A versatile pair of trousers for men.",
-          "img": ""
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/trousersM.jpg"
         },
         {
           "id": 6,
           "name": "Trousers 2",
           "price": 44.99,
           "description": "A high-quality pair of trousers with a slim fit.",
-          "img": ""
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/trousersM-2.jpg"
         },
         {
           "id": 7,
           "name": "Blazer 1",
           "price": 79.99,
           "description": "A stylish and professional blazer for men.",
-          "img": ""
+          "img": "https://github.com/Ponna-Rajesh/api-fashion-store/blob/main/images/blazzers.jpg"
         },
         {
           "id": 8,
           "name": "Blazer 2",
           "price": 89.99,
           "description": "A well-tailored blazer with a modern design.",
-          "img": ""
+          "img": "https://github.com/Ponna-Rajesh/api-fashion-store/blob/main/images/blazzers-2.jpg"
         },
         {
           "id": 9,
           "name": "Suit 1",
           "price": 199.99,
           "description": "A high-quality suit for formal occasions.",
-          "img": ""
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/suit.jpg"
         },
         {
           "id": 10,
           "name": "Suit 2",
           "price": 249.99,
           "description": "A stylish and well-fitting suit for men.",
-          "img": ""
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/suit-2.jpg"
         }
       ]
     },
