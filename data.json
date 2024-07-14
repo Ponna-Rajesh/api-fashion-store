@@ -166,142 +166,146 @@
       ]
     },
 
+   {
+  "category": "boy",
+  "items": [
     {
-      "category": "boy",
-      "items": [
-        {
-          "id": 23,
-          "name": "Saree 1",
-          "price": 99.99,
-          "description": "A beautiful and elegant saree for women.",
-          "img": ""
-        },
-        {
-          "id": 24,
-          "name": "Saree 2",
-          "price": 129.99,
-          "description": "A stunning saree with intricate designs.",
-          "img": ""
-        },
-        {
-          "id": 25,
-          "name": "Kurta 1",
-          "price": 39.99,
-          "description": "A comfortable and stylish kurta for women.",
-          "img": ""
-        },
-        {
-          "id": 26,
-          "name": "Kurta 2",
-          "price": 49.99,
-          "description": "A high-quality kurta with a modern twist.",
-          "img": ""
-        },
-        {
-          "id": 27,
-          "name": "Jacket 1",
-          "price": 59.99,
-          "description": "A versatile jacket for women.",
-          "img": ""
-        },
-        {
-          "id": 28,
-          "name": "Jacket 2",
-          "price": 69.99,
-          "description": "A stylish and warm jacket for women.",
-          "img": ""
-        },
-        {
-          "id": 29,
-          "name": "T-Shirt 1",
-          "price": 24.99,
-          "description": "A comfortable and fashionable t-shirt for women.",
-          "img": ""
-        },
-        {
-          "id": 30,
-          "name": "T-Shirt 2",
-          "price": 29.99,
-          "description": "A high-quality t-shirt with a unique design for women.",
-          "img": ""
-        },
-        {
-          "id": 31,
-          "name": "Lehenga 1",
-          "price": 149.99,
-          "description": "A beautiful and traditional lehenga for women.",
-          "img": ""
-        },
-        {
-          "id": 32,
-          "name": "Lehenga 2",
-          "price": 179.99,
-          "description": "A stunning lehenga with intricate embroidery.",
-          "img": ""
-        },
-        {
-          "id": 33,
-          "name": "Trousers 1",
-          "price": 44.99,
-          "description": "A comfortable and stylish pair of trousers for women.",
-          "img": ""
-        },
-        {
-          "id": 34,
-          "name": "Trousers 2",
-          "price": 49.99,
-          "description": "A high-quality pair of trousers with a flattering fit.",
-          "img": ""
-        }
-      ]
+      "id": 23,
+      "name": "Boy-1",
+      "price": 99.99,
+      "description": "A beautiful and elegant saree for women.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/boy-1.jpg"
     },
+    {
+      "id": 24,
+      "name": "Boy-2",
+      "price": 129.99,
+      "description": "A stunning saree with intricate designs.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/boy-2.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Boy-3",
+      "price": 39.99,
+      "description": "A comfortable and stylish kurta for women.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/boy-3.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Boy-4",
+      "price": 49.99,
+      "description": "A high-quality kurta with a modern twist.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/boy-4.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Boy-5",
+      "price": 59.99,
+      "description": "A versatile jacket for women.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/boy-5.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Boy-6",
+      "price": 69.99,
+      "description": "A stylish and warm jacket for women.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/boy-6.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Boy-7",
+      "price": 24.99,
+      "description": "A comfortable and fashionable t-shirt for women.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/boy-7.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Boy-8",
+      "price": 29.99,
+      "description": "A high-quality t-shirt with a unique design for women.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/boy-8.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Boy-9",
+      "price": 149.99,
+      "description": "A beautiful and traditional lehenga for women.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/boy-9.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Boy-10",
+      "price": 179.99,
+      "description": "A stunning lehenga with intricate embroidery.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/boy-10.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Boy-11",
+      "price": 44.99,
+      "description": "A comfortable and stylish pair of trousers for women.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/boy-11.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Boy-12",
+      "price": 49.99,
+      "description": "A high-quality pair of trousers with a flattering fit.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/boy-12.jpg"
+    }
+  ]
+}
+
+,
 
     {
-      "category": "girl",
-      "items": [
-        {
-          "id": 35,
-          "name": "Saree 1",
-          "price": 99.99,
-          "description": "A beautiful and elegant saree for women.",
-          "img": ""
-        },
-        {
-          "id": 36,
-          "name": "Saree 2",
-          "price": 129.99,
-          "description": "A stunning saree with intricate designs.",
-          "img": ""
-        },
-        {
-          "id": 37,
-          "name": "Kurta 1",
-          "price": 39.99,
-          "description": "A comfortable and stylish kurta for women.",
-          "img": ""
-        },
-        {
-          "id": 38,
-          "name": "Kurta 2",
-          "price": 49.99,
-          "description": "A high-quality kurta with a modern twist.",
-          "img": ""
-        },
-        {
-          "id": 39,
-          "name": "Jacket 1",
-          "price": 59.99,
-          "description": "A versatile jacket for women.",
-          "img": ""
-        },
-        {
-          "id": 40,
-          "name": "Jacket 2",
-          "price": 69.99,
-          "description": "A stylish and"
-        } 
-      ]
+  "category": "girl",
+  "items": [
+    {
+      "id": 35,
+      "name": "Girl-1",
+      "price": 99.99,
+      "description": "A beautiful and elegant saree for women.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/girl.jpg"
     },
+    {
+      "id": 36,
+      "name": "Girl-2",
+      "price": 129.99,
+      "description": "A stunning saree with intricate designs.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/girl-2.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Girl-3",
+      "price": 39.99,
+      "description": "A comfortable and stylish kurta for women.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/girl-3.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Girl-4",
+      "price": 49.99,
+      "description": "A high-quality kurta with a modern twist.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/girl-4.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Girl-5",
+      "price": 59.99,
+      "description": "A versatile jacket for women.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/girl-5.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Girl-6",
+      "price": 69.99,
+      "description": "A stylish and warm jacket for women.",
+      "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/girl-6.jpg"
+    }
+  ]
+}
+,
 
     {
         "category": "beauty",
