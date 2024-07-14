@@ -50,14 +50,14 @@
           "name": "Blazer 1",
           "price": 79.99,
           "description": "A stylish and professional blazer for men.",
-          "img": "https://github.com/Ponna-Rajesh/api-fashion-store/blob/main/images/blazzers.jpg"
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/blazzers.jpg"
         },
         {
           "id": 8,
           "name": "Blazer 2",
           "price": 89.99,
           "description": "A well-tailored blazer with a modern design.",
-          "img": "https://github.com/Ponna-Rajesh/api-fashion-store/blob/main/images/blazzers-2.jpg"
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/blazzers-2.jpg"
         },
         {
           "id": 9,
@@ -119,21 +119,21 @@
           "name": "Jacket 2",
           "price": 69.99,
           "description": "A stylish and warm jacket for women.",
-          "img": "https://github.com/Ponna-Rajesh/api-fashion-store/blob/main/images/jacket-2.jpg"
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/jacket-2.jpg"
         },
         {
           "id": 17,
           "name": "T-Shirt 1",
           "price": 24.99,
           "description": "A comfortable and fashionable t-shirt for women.",
-          "img": "https://github.com/Ponna-Rajesh/api-fashion-store/blob/main/images/tshirt.jpg"
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/tshirt.jpg"
         },
         {
           "id": 18,
           "name": "T-Shirt 2",
           "price": 29.99,
           "description": "A high-quality t-shirt with a unique design for women.",
-          "img": "https://github.com/Ponna-Rajesh/api-fashion-store/blob/main/images/tshirt-2.jpg"
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/tshirt-2.jpg"
         },
         {
           "id": 19,
@@ -147,21 +147,21 @@
           "name": "Lehenga 2",
           "price": 179.99,
           "description": "A stunning lehenga with intricate embroidery.",
-          "img": "https://github.com/Ponna-Rajesh/api-fashion-store/blob/main/images/lehenga-2.jpg"
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/lehenga-2.jpg"
         },
         {
           "id": 21,
           "name": "Trousers 1",
           "price": 44.99,
           "description": "A comfortable and stylish pair of trousers for women.",
-          "img": "https://github.com/Ponna-Rajesh/api-fashion-store/blob/main/images/trousers.jpg"
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/trousers.jpg"
         },
         {
           "id": 22,
           "name": "Trousers 2",
           "price": 49.99,
           "description": "A high-quality pair of trousers with a flattering fit.",
-          "img": "https://github.com/Ponna-Rajesh/api-fashion-store/blob/main/images/trousers-2.jpg"
+          "img": "https://raw.githubusercontent.com/Ponna-Rajesh/api-fashion-store/main/images/trousers-2.jpg"
         }
       ]
     },
